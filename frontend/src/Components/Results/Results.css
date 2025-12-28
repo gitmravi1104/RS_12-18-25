@@ -1,0 +1,11 @@
+@media (max-width: 565px) {
+    .heading_text {
+        font-size: 14px;
+        padding-bottom: 10px;
+        text-align: center;
+        font-weight: bold;
+    }
+    .results_format {
+        width: 100%;
+    }
+}
